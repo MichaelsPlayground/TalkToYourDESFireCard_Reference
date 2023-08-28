@@ -1,5 +1,7 @@
 # Talk to your Mifare DESFire EV1/EV2/EV3 card
 
+# REFERENCE - This is a repository just for documenting the existence of code on August 28th, 2023. DO NOT CHANGE THE CONTENT !
+
 This is a sample app to demonstrate how to work with a Mifare DESFire EV1/EV2/EV3 card. 
 
 For simplicity this app uses a DESFire tag with **factory settings** means:
